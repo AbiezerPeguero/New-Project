@@ -46,6 +46,7 @@ New_project/
 - Informes PDF generados con fpdf.
 - Base de datos SQLite loans.db con la data procesada.
 
-## Autor
-[Abiezer Peguero]
+## Archivos Pesados  
+Los siguientes archivos son demasiado pesados para ser subidos directamente al repositorio. Se pueden descargar desde el siguiente enlace:
+New_project- https://1024terabox.com/s/13sM_uGId3fVPtdqAkdQWYw
 
